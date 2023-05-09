@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    
+}
+
+body{
+    max-width: 100rem;
+}
+.nav{
+    background-color: rgb(160, 168, 168);
+    color: black;
+    font-style: italic;
+    padding-left: 10px;
+    
+}
+.nav-link{
+    color: black;
+}
+.dropdown-menu{
+    background-color: rgb(159, 167, 174);
+}
+.dropdown-item{
+    font-weight: bold;
+
+}
+
+
+.rounded{
+    height: 350px;
+    margin: 10px;
+    
+}
+.footer{
+    column-count: 3;
+}
